@@ -1,2 +1,4 @@
-#. Banana Pi M2 Zero Technical Document
+Banana Pi M2 Zero Technical Document
+===================================
 - Create by. GTO
+------------
