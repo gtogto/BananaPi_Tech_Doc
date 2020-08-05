@@ -4,4 +4,4 @@ Banana Pi M2 Zero Technical Document
 ------------
 
 ##Screenshot
-<img src="image/bpi_p2_zero_set.png" height="400" alt="Screenshot"/> 
+<img src="image/bpi_p2_zero_set_gto.png" height="400" alt="Screenshot"/> 
