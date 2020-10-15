@@ -1,6 +1,7 @@
 Banana Pi M2 Zero Technical Document
 ===================================
 - Create by. GTO
+- final update 2020.10.15
 ------------
 
 #Screenshot
